@@ -1,4 +1,6 @@
 "use client";
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import Projects from '@/components/Projects';
 import Hero from '../components/Hero';
 import Skills from '@/components/Skills';
