@@ -1,13 +1,4 @@
 "use client";
-<<<<<<< HEAD
-=======
-/* eslint-disable @typescript-eslint/no-unused-vars */
-
-import Projects from '@/components/Projects';
-import Hero from '../components/Hero';
-import Skills from '@/components/Skills';
-import Contact from '../components/Contact';
->>>>>>> c9ea043e70ee7063938c192346f24603fdc03c27
 import About from '../components/About';
 import Contact from '../components/Contact';
 import Hero from '../components/Hero';
